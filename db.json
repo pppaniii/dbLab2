@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8419988,
+      "category": "sustainability",
+      "title": "Cooking mama",
+      "description": "Cook yur own recipe.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "12:00",
+      "petsAllowed": false,
+      "organizer": "HiHi"
     }
   ]
 }
